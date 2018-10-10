@@ -1,0 +1,17 @@
+/*Mobile*/
+@media only screen and (max-width: 600px) {
+	#shop-name{
+		font-size: 40px;
+		color: white;
+		padding: 60px 0px 0px 10px;
+		font-family: 'Lora', serif;
+	}
+
+	#shop-banner{
+		background-color: black;
+		height: 100px;
+		width: 400px;
+		border-radius: 10px;
+		margin-left: 7px
+	}
+} 
